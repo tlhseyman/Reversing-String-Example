@@ -13,3 +13,4 @@ public class ReversingString1 {
         }
     }
 }
+// in this code, defined string printed as reversed, "elgoog".
